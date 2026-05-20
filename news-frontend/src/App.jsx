@@ -69,7 +69,7 @@
 
 import { useEffect, useState } from "react";
 
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://multi-source-news-digest-jpuq.onrender.com";
 const API_KEY = "newsdigest-demo-key-123";
 
 const headers = { "X-API-Key": API_KEY };
