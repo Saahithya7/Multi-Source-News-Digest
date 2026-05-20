@@ -55,3 +55,8 @@ http://localhost:8000/docs
 
 ## Demo API Key
 newsdigest-demo-key-123
+
+## Deployment Link
+https://multi-source-news-digest.vercel.app/
+
+<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/352becb7-3b20-4476-bcd4-66afccb7b667" />
