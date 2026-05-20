@@ -22,7 +22,7 @@ Live AI-summarised news digest from BBC, CNN, and BBC Tech.
 ## Features
 - Fetches news from 3 RSS sources every 30 minutes
 - AI summaries via Groq LLaMA 3.3
-- Topic clustering (Politics, Tech, Sports, Business, Health)
+- Topic clustering (Politics, Tech, Sports, General)
 - Sentiment tagging per article
 - REST API with rate limiting
 - Auto-generated Swagger docs
